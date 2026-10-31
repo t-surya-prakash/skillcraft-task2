@@ -1,0 +1,5 @@
+Metric,Value
+Raw rows (including duplicates),1218
+Duplicate rows removed,18
+Rows after cleaning,1200
+Missing cells after cleaning,0
